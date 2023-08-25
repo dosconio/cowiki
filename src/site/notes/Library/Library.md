@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/library/library/"}
+{"dg-publish":true,"permalink":"/library/library/","noteIcon":""}
 ---
 
-#Datura/COTLAB/Library
-%UTF-8; %`AD202308251108`; %parent:[[COTLAB\|COTLAB]]
+%parent:[[COTLAB\|COTLAB]] #Datura/COTLAB/Library
 
 
 
