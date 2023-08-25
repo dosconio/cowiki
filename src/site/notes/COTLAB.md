@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cotlab/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/cotlab/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-#Datura/COTLAB
-%UTF-8; %`AD202308250908`; %parent:[[DATURA/DATURA\|DATURA]];
+%parent:[[DATURA/DATURA\|DATURA]]; #Datura/COTLAB
 
 
 
