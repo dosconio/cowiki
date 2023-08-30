@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/cotlab/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-%parent:[[../DATURA\|DATURA]]; #Datura/COTLAB
+%parent:[[../DATURA\|DATURA]]; #Datura/COTLAB 
+
 <center>小众の电信幻想乡</center>
+
 本域名 `coweb.site` 有效期至 **2024年07月**
 语言文字：中文简体
 
