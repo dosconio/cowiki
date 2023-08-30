@@ -9,10 +9,10 @@
 本域名 `coweb.site` 有效期至 **2024年07月**
 语言文字：中文简体
 
-### [[DATURA/COTLAB/Library/Library\|函数接口]]
+### [[Library/Library\|函数接口]]
 
 ### 公式速查
-- [[HandyBook/电磁学\|电磁学]]
+- [[HandyBook/Denji\|Denji]]
 
 ### 资源下载
 
