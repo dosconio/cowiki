@@ -12,7 +12,7 @@
 ### [[Library/Library\|函数接口]]
 
 ### 公式速查
-- [[HandyBook/Denji\|Denji]]
+- [[HandyBook/Denji\|电磁学]]
 
 ### 资源下载
 
