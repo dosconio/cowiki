@@ -27,7 +27,7 @@
 
 #### 双曲正弦
 
-$$sh(x)=\frac{e^x-e^{-x}}2$$
+$sh(x)=\frac{e^x-e^{-x}}2$
 
 - $sh(x+y)=sh(x)ch(y)+ch(x)sh(y)$
 
@@ -35,7 +35,7 @@ $$sh(x)=\frac{e^x-e^{-x}}2$$
 
 #### 双曲余弦
 
-$$ch(x)=\frac{e^x+e^{-x}}2$$
+$ch(x)=\frac{e^x+e^{-x}}2$
 
 - $ch(x+y)=ch(x)ch(y)+sh(x)sh(y)$
 
@@ -66,12 +66,14 @@ $$ch(x)=\frac{e^x+e^{-x}}2$$
 适用于复数：
 
 - $arsh(x)=ln(x+\sqrt{x^2+1})$
+
 - $arch(x)=ln(x+\sqrt{x^2-1})$
+
 - $arth(x)=\frac 1 2 \cdot ln \frac{1+x}{1-x}$
 
 ### 复数公式
 
-- $A + j \cdot B = \sqrt{A^2+B^2}\cdot∠sym(arccos \frac A {\sqrt{A^2+B^2}})$
+- $A + j \cdot B = \sqrt{A^2+B^2}\cdot\angle sym(arccos \frac A {\sqrt{A^2+B^2}})$
 
 
 
