@@ -53,8 +53,7 @@ $$ch(x)=\frac{e^x+e^{-x}}2$$
 
 - $th(x)=\frac {sh(x)} {ch(x)}$
 
-- $\partial\ th(x) = \frac 1 {{ch}^2(2)}$
-
+- $\partial\ th(x) = \frac 1 {{ch}^2(x)}$
 
 #### 双曲余切
 
@@ -65,6 +64,7 @@ $$ch(x)=\frac{e^x+e^{-x}}2$$
 #### 反双曲函数
 
 适用于复数：
+
 - $arsh(x)=ln(x+\sqrt{x^2+1})$
 - $arch(x)=ln(x+\sqrt{x^2-1})$
 - $arth(x)=\frac 1 2 \cdot ln \frac{1+x}{1-x}$
