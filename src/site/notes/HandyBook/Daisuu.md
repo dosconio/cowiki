@@ -27,7 +27,7 @@
 
 #### 双曲正弦
 
-$sh(x)=\frac{e^x-e^{-x}}2$
+$sh(x)=\frac{e^x-e^{-x} }2$
 
 - $sh(x+y)=sh(x)ch(y)+ch(x)sh(y)$
 
@@ -35,7 +35,7 @@ $sh(x)=\frac{e^x-e^{-x}}2$
 
 #### 双曲余弦
 
-$ch(x)=\frac{e^x+e^{-x}}2$
+$ch(x)=\frac{e^x+e^{-x} }2$
 
 - $ch(x+y)=ch(x)ch(y)+sh(x)sh(y)$
 
@@ -53,13 +53,13 @@ $ch(x)=\frac{e^x+e^{-x}}2$
 
 - $th(x)=\frac {sh(x)} {ch(x)}$
 
-- $\partial\ th(x) = \frac 1 {{ch}^2(x)}$
+- $\partial\ th(x) = \frac 1 { {ch}^2(x)}$
 
 #### 双曲余切
 
 - $coth(x)=\frac {ch(x)} {sh(x)}$
 
-- $\partial\ coth(x) = \frac 1 {{sh}^2(2)}$
+- $\partial\ coth(x) = \frac 1 { {sh}^2(2)}$
 
 #### 反双曲函数
 
@@ -73,7 +73,7 @@ $ch(x)=\frac{e^x+e^{-x}}2$
 
 ### 复数公式
 
-- $A + j \cdot B = \sqrt{A^2+B^2}\cdot\angle sym(arccos \frac A {\sqrt{A^2+B^2}})$
+- $A + j \cdot B = \sqrt{A^2+B^2}\cdot\angle sym(arccos \frac A {\sqrt{A^2+B^2} })$
 
 
 
