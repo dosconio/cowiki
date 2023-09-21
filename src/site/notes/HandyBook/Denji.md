@@ -4,6 +4,8 @@
 
 %parent:[[COTLAB\|COTLAB]]; #Datura/COTLAB/Handy 
 
+基础定义及公式请参见百科。
+
 ### 电磁学数学基础
 
 右旋叉乘恒等式:
