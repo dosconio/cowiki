@@ -5,10 +5,11 @@
 
 |Rank|Operators|
 |--|--|
-|0|`^`(arithmetic power)|
+|0|`!`(factorial)|
 |1|`+`(prefix) `-`(prefix)|
-|2|`*`(arithmetic) `/`(arithmetic) `%`(arithmetic for int)|
-|3|`+`(arithmetic) `-`(arithmetic)|
-|4|`=`(assignment)|
+|2|`^`(arithmetic power)|
+|3|`*`(arithmetic) `/`(arithmetic) `%`(arithmetic for int)|
+|4|`+`(arithmetic) `-`(arithmetic)|
+|5|`=`(assignment)|
 
 
