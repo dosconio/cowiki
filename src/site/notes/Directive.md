@@ -9,3 +9,7 @@
 
 `list`: list all variables except constants;
 
+`fast`: use less digits to faster the operations;
+
+`help`: information of COTLAB;
+
