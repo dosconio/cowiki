@@ -9,9 +9,11 @@
 本域名 `coweb.site` 有效期至 **2024年07月**
 语言文字：中文简体
 
+![_resources/logo.png](/img/user/_resources/logo.png)
+
 ### 软件下载
 
-- [2023 9月21日第1版](http://movink.cn/COTLAB.20230921.exe)
+- [2023 9月24日 Windows 64位](movink.cn/release/cot.20230924w64.exe)
 
 
 ### 公式速查
