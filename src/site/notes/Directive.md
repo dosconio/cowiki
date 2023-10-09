@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/directive/","noteIcon":""}
+{"dg-publish":true,"permalink":"/directive/","tags":["Datura/COTLAB"],"noteIcon":""}
 ---
 
 
@@ -9,7 +9,7 @@
 
 `list`: list all variables except constants;
 
-`fast`: use less digits to faster the operations;
+`mode`: use less digits to faster the operations (enter **fast** mode);
 
 `help`: information of COTLAB;
 
