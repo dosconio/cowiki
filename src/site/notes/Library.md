@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/library/","noteIcon":""}
+{"dg-publish":true,"permalink":"/library/","tags":["Datura/COTLAB"],"noteIcon":""}
 ---
 
 
@@ -19,3 +19,5 @@
 |**cos**(float)|**acos**(float)|**cosh**(float)|**acosh**(float)|
 |**tan**(float)|**atan**(float)|**tanh**(float)|**atanh**(float)|
 
+**cal**(void)
+- show calendar of current date (least point limit exists!)
