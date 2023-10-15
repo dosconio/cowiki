@@ -34,7 +34,7 @@
 
 函数分解通式:
 
-- $\nabla*\vec F (\varphi(t)) = \nabla \varphi(t)*\frac{\partial \vec F}{\partial \varphi}$ (难点)
+- $\nabla*\vec F (\varphi(t)) = \nabla \varphi(t)*\dfrac{\partial \vec F}{\partial \varphi}$ (难点)
 
 双重算子公式:
 
@@ -64,7 +64,7 @@
 
 - $δ(z=x^2-1)=\frac 1 2 \cdot δ(x+1) + \frac 1 2\cdot δ(x-1)$
 
-- $\delta(z = k(x-x_0))=\frac{1}{|k|}\delta(x-x_0)$
+- $\delta(z = k(x-x_0))=\dfrac{1}{|k|}\delta(x-x_0)$
 
 冲击偶:
 
@@ -72,11 +72,11 @@
 
 - $f(t) \cdot δ'(t-t_0) = f(t_0)δ'(t) - f'(t_0)δ(t)$
 
-- 尺度变换 $δ'(a t)=\frac 1 {a\cdot\left|a\right|} \cdot δ'(t)$
+- 尺度变换 $δ'(a t)=\dfrac 1 {a\cdot\left|a\right|} \cdot δ'(t)$
 
 抽样函数:
 
-- $Sa(x)=\frac {sin(x)} x$
+- $Sa(x)=\dfrac {sin(x)} x$
 
 ### .Reference
 未示出的推导过程见旧版H.N.。符号定义亦基本沿用于此。
