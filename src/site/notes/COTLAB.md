@@ -13,7 +13,7 @@
 
 ### 软件下载
 
-- [2023 9月28日 Windows 64位](https://movink.cn/release/cot.20230928w64.exe)
+- [2023 9月28日 Windows 64位](http://movink.cn/release/cot.20230928w64.exe)
 
 
 ### 公式速查
@@ -38,7 +38,7 @@
 - [PayPal](https://paypal.me/dosconio?country.x=C2&locale.x=zh_XC)
 
 入链（依赖）
-- [ゆに～シンブル](https://github.com/dosconio/unisym)
+- [ゆに～シンブル](https://github.com/dosconio/unisym)（統象綜合編程庫）
 - [GCC](https://gcc.gnu.org/)
 
 出链（被依赖）
