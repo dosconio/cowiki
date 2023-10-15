@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
