@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cotlab/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
-%parent:[[../DATURA\|DATURA]]; #Datura/COTLAB 
+
 
 <center><b>小众の电信人の幻想乡</b></center>
 
@@ -13,7 +13,7 @@
 
 ### 软件下载
 
-- [2023 9月24日 Windows 64位](movink.cn/release/cot.20230924w64.exe)
+- [2023 9月28日 Windows 64位](https://movink.cn/release/cot.20230928w64.exe)
 
 
 ### 公式速查
@@ -28,27 +28,18 @@
 - 物理量
 - 语言符号
 
-### 资源下载
-
-暂可通过浏览器的打印工具缓存 PDF 文档或直接打印。
-
 ### 友情链接
-创作者
 
+创作者
+- [「綾乃ちゃん」](https://space.bilibili.com/3546380379360009)
 
 捐赠
-- 微信
+- We-Chat Pay
 - [PayPal](https://paypal.me/dosconio?country.x=C2&locale.x=zh_XC)
 
 入链（依赖）
-- Windows(R) and MSVC-Runtime
-- [[CLOVER/unisym/UNISYM\|UNISYM]][#](https://github.com/ArinaMgk/unisym)
+- [ゆに～シンブル](https://github.com/dosconio/unisym)
 - [GCC](https://gcc.gnu.org/)
-
-推荐（没有任何恰饭成分）
-- GCC 兼容性最强的同时最最广泛编译器
-- YASM 最人性化的汇编器
-- SiYuan 丰富的笔记软件
 
 出链（被依赖）
 - [Cowiki](https://coweb.site)
