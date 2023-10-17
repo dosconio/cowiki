@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -13,6 +13,7 @@
 
 ### 软件下载
 
+- [2023 10月18日 Windows 64位](http://movink.cn/release/cot.20231018w64.exe)
 - [2023 9月28日 Windows 64位](http://movink.cn/release/cot.20230928w64.exe)
 
 
