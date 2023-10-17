@@ -13,3 +13,10 @@
 
 `help`: information of COTLAB;
 
+`cd` `str rel_path`: change current directory;
+
+`dir`: show folders and files in the current directory;
+
+`fdump` `str filename`: show the hexadecimal digits of the file
+
+instant `ffset` with `dest_file sors_file sec_id`
