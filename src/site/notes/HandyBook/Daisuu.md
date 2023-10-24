@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/handy-book/daisuu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/handy-book/daisuu/","tags":["Datura/COTLAB/Handy"],"noteIcon":""}
 ---
 
-%parent:[[COTLAB\|COTLAB]]; #Datura/COTLAB/Handy 
 
 代数学公式
 
@@ -12,14 +11,14 @@
 
 - $\partial^2\ sin=\partial\ cos=-sin$
 
-- 降幂公式 $sin^2(\theta)=\frac 1 2 \cdot (1-cos(2\cdot \theta))$
+- 降幂公式 $sin^2(\theta)=\dfrac 1 2 \cdot (1-cos(2\cdot \theta))$
 
-- 相变公式，符号看象限 $sin(\alpha-\frac\pi 2+\frac\pi 2)=cos(\alpha-\frac\pi 2)$
+- 相变公式，符号看象限 $sin(\alpha-\dfrac\pi 2+\dfrac\pi 2)=cos(\alpha-\dfrac\pi 2)$
 
 - 和积互转公式
-	- $sin(A)cos(B)=\frac 1 2 \cdot (sin\delta+sin\sigma)$
-	- $cos(A)cos(B)=\frac 1 2 \cdot (cos\delta+cos\sigma)$
-	- $sin(A)sin(B)=\frac 1 2 \cdot (cos\delta-cos\sigma)$
+	- $sin(A)cos(B)=\dfrac 1 2 \cdot (sin\delta+sin\sigma)$
+	- $cos(A)cos(B)=\dfrac 1 2 \cdot (cos\delta+cos\sigma)$
+	- $sin(A)sin(B)=\dfrac 1 2 \cdot (cos\delta-cos\sigma)$
 
 #### 反三角函数
 
@@ -27,7 +26,7 @@
 
 #### 双曲正弦
 
-$sh(x)=\frac{e^x-e^{-x} }2$
+$sh(x)=\dfrac{e^x-e^{-x} }2$
 
 - $sh(x+y)=sh(x)ch(y)+ch(x)sh(y)$
 
@@ -35,7 +34,7 @@ $sh(x)=\frac{e^x-e^{-x} }2$
 
 #### 双曲余弦
 
-$ch(x)=\frac{e^x+e^{-x} }2$
+$ch(x)=\dfrac{e^x+e^{-x} }2$
 
 - $ch(x+y)=ch(x)ch(y)+sh(x)sh(y)$
 
@@ -51,15 +50,15 @@ $ch(x)=\frac{e^x+e^{-x} }2$
 
 #### 双曲正切
 
-- $th(x)=\frac {sh(x)} {ch(x)}$
+- $th(x)=\dfrac {sh(x)} {ch(x)}$
 
-- $\partial\ th(x) = \frac 1 { {ch}^2(x)}$
+- $\partial\ th(x) = \dfrac 1 { {ch}^2(x)}$
 
 #### 双曲余切
 
-- $coth(x)=\frac {ch(x)} {sh(x)}$
+- $coth(x)=\dfrac {ch(x)} {sh(x)}$
 
-- $\partial\ coth(x) = \frac 1 { {sh}^2(2)}$
+- $\partial\ coth(x) = \dfrac 1 { {sh}^2(2)}$
 
 #### 反双曲函数
 
@@ -69,11 +68,11 @@ $ch(x)=\frac{e^x+e^{-x} }2$
 
 - $arch(x)=ln(x+\sqrt{x^2-1})$
 
-- $arth(x)=\frac 1 2 \cdot ln \frac{1+x}{1-x}$
+- $arth(x)=\dfrac 1 2 \cdot ln \dfrac{1+x}{1-x}$
 
 ### 复数公式
 
-- $A + j \cdot B = \sqrt{A^2+B^2}\cdot\angle sym(arccos \frac A {\sqrt{A^2+B^2} })$
+- $A + j \cdot B = \sqrt{A^2+B^2}\cdot\angle sym(arccos \dfrac A {\sqrt{A^2+B^2} })$
 
 
 
