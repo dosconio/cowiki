@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/handy-book/kika/","noteIcon":""}
+{"dg-publish":true,"permalink":"/handy-book/kika/","tags":["Datura/COTLAB/Handy"],"noteIcon":""}
 ---
 
-%parent:[[COTLAB\|COTLAB]]; #Datura/COTLAB/Handy 
+
 几何学
 
-### .EOF
+
