@@ -1,20 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
-
-<center><b>小众の电信人の幻想乡</b></center>
-
-本域名 `coweb.site` 有效期至 **2024年07月**
-语言文字：中文简体
 
 ![_resources/logo.png](/img/user/_resources/logo.png)
 
 ### 软件下载
 
-- [2023 10月18日 Windows 64位](http://movink.cn/release/cot.20231018w64.exe)
-- [2023 9月28日 Windows 64位](http://movink.cn/release/cot.20230928w64.exe)
+- [2023 10月18日 Windows 64位](https://gitee.com/dosconio/cotlab-release/blob/master/cot.20231018w64.exe)
 
 
 ### 公式速查
@@ -43,7 +37,7 @@
 - [GCC](https://gcc.gnu.org/)
 
 出链（被依赖）
-- [Cowiki](https://coweb.site)
+- [Cowiki](https://cotlab.org/)
 - [COTLAB GPL Project](https://github.com/dosconio/COTLAB)
 
 历史信息
