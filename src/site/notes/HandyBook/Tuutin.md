@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/handy-book/tuutin/","noteIcon":""}
+{"dg-publish":true,"permalink":"/handy-book/tuutin/","tags":["Datura/COTLAB/Handy"],"noteIcon":""}
 ---
 
-%parent:[[COTLAB\|COTLAB]]; #Datura/COTLAB/Handy 
-信息学 电路学
 
-《高频电子线路》
+信息学 电路学 《高频电子线路》
 
 - **谐振频率** $\omega_0=\dfrac 1 {\sqrt{LC}}$
 
@@ -21,9 +19,3 @@
 - **变压器阻值等效** $R_1 = p^2 R_2$
 
 
-
-选自：
-```
-obsidian://open?vault=HerNote&file=DATURA%2FSymbols
-obsidian://open?vault=HerNote&file=MOUTAN%2FCircuit%2FResonance
-```
