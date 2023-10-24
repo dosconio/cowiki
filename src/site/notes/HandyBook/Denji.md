@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/handy-book/denji/","noteIcon":""}
+{"dg-publish":true,"permalink":"/handy-book/denji/","tags":["Datura/COTLAB/Handy"],"noteIcon":""}
 ---
 
-%parent:[[COTLAB\|COTLAB]]; #Datura/COTLAB/Handy 
+
 
 基础定义及公式请参见百科。
 
@@ -77,12 +77,5 @@
 抽样函数:
 
 - $Sa(x)=\dfrac {sin(x)} x$
-
-### .Reference
-未示出的推导过程见旧版H.N.。符号定义亦基本沿用于此。
-错误、检举等请联系服主唷~
-- [[DATURA/Differential\|Differential]]
-- [[DATURA/Operator/Dirac\|Dirac]]
-
 
 
