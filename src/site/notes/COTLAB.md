@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
 
 ![_resources/logo.png](/img/user/_resources/logo.png)
+
+（注：该图标源自 Blue Archive，非本项目的图标）
+
 
 ### 软件下载
 
@@ -29,7 +32,7 @@
 - [「綾乃ちゃん」](https://space.bilibili.com/3546380379360009)
 
 捐赠
-- We-Chat Pay
+- WeChat Pay
 - [PayPal](https://paypal.me/dosconio?country.x=C2&locale.x=zh_XC)
 
 入链（依赖）
