@@ -20,8 +20,6 @@
 
 - $\nabla \times \vec f = ε \cdot d_i \cdot f_j \cdot \vec e_k$
 
-- $∆f = (d_i)^2 f$
-
 分裂公式:
 
 - $\partial(\vec a \cdot \vec b) = \vec a \cdot \partial \vec b + \partial \vec a \cdot \vec b$
@@ -36,7 +34,9 @@
 
 - $\nabla*\vec F (\varphi(t)) = \nabla \varphi(t)*\dfrac{\partial \vec F}{\partial \varphi}$ (难点)
 
-双重算子公式:
+双重算子(二阶微分)公式:
+
+- $∆f = (d_i)^2 f$
 
 - $\nabla \times(\nabla \cdot \vec f) = 0$
 
