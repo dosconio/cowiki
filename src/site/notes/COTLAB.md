@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/cotlab/","tags":["Datura/COTLAB","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
 
 ![_resources/logo.png](/img/user/_resources/logo.png)
 
-（注：该图标源自 Blue Archive，非本项目的图标）
 
 
 ### 软件下载
@@ -44,6 +43,6 @@
 - [COTLAB GPL Project](https://github.com/dosconio/COTLAB)
 
 历史信息
-- RFG Generation 3 (leader [[COSMOS/role/Alice\|綾乃ちゃん]])
+- RFG Generation 3 (leader [[COSMOS/Prenova/role/Alice\|綾乃ちゃん]])
 - RFA Generation 2 (原作者💐转交)
 - REG Generation 1
